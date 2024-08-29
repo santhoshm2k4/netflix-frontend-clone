@@ -158,9 +158,9 @@ nav button {
 
 .secimg video {
     position: absolute;
-    top: 134px;
-    right: 79px;
-    width: 403px;
+    top: 73px;
+    right: 115px;
+    width: 337px;
 }
 
 section.first>div {
@@ -294,9 +294,6 @@ footer {
         max-width: 90vw;
     }
 
-    .footer-item {
-        /* align-items: center; */
-    }
 }
 
 @media screen and (max-width: 1484px) {
@@ -308,6 +305,7 @@ footer {
         height: 100%;
         width: 100%;
     }
+
     .seperation {
         height: 9px;
         background-color: rgb(32, 32, 32);
